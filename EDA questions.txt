@@ -1,0 +1,17 @@
+EDA questions
+These are the questions that you will need to asnwer after doing the required analysis. (Note: You may earn bonus marks by providing additional analysis.)
+Are there any countries with cities located at extreme latitudes, and how might this impact their climate?
+Can you identify any clusters of cities with similar latitude and longitude values? What factors might explain these clusters?
+Are there any correlations between a city's geographical location (latitude and longitude) and its weather attributes, such as temperature or humidity?
+Identify the top three cities with the most frequent occurrence of rainy weather based on weather descriptions. What are the seasonal patterns?
+Is there a correlation between humidity levels and air pressure? How might this relationship affect weather conditions?
+Explore the impact of wind direction on temperature for coastal cities. Are there noticeable patterns?
+Are there specific months when cities experience significant temperature fluctuations? What might explain these variations?
+Identify periods of extreme weather events, such as storms or heatwaves, by analyzing the time-based data. What patterns emerge?
+Are there any notable differences in temperature trends between northern and southern hemisphere cities over the year? How do they relate to seasons?
+What are the consequences of prolonged periods of extreme cold or heat in specific cities? How do residents adapt to such conditions?
+Investigate whether temperature anomalies (unusual deviations from the norm) coincide with certain events or environmental factors in specific cities.
+Analyze the impact of temperature on energy consumption patterns in cities. Are there noticeable trends or correlations?
+How do specific wind patterns impact air quality and pollution dispersion in urban areas? Analyze wind direction data for insights.
+Identify cities prone to strong winds and the potential consequences, such as increased risk of natural disasters or challenges for transportation.
+Explore whether wind speed and direction influence the frequency and severity of weather-related events (e.g., hurricanes, storms) in coastal cities.
